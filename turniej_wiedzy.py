@@ -73,7 +73,7 @@ def best_scores():
             """
         0 - zakończ
         1 - wyświetl najlepsze wyniki
-        2 - dodaj wynik
+        2 - dodaj swój wynik
         3 - wyczyść najlepsze wyniki
             """)
         wybor = input("Wybieram: ")
